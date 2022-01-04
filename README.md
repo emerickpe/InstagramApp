@@ -8,10 +8,10 @@ In the root of the project use `npm install`or `yarn install`to install node_mod
 
 ### DEBUG MODE
 
-#### Using your phone or tablet
-
 To launch the project in debug just use `expo start`( or `npm start`, `yarn start`)
 Expo CLI starts Metro Bundler, which is an HTTP server that compiles the JavaScript code of your app.
+
+#### Using your phone or tablet
 
 🍎 On your iPhone or iPad, open the default Apple "Camera" app and scan the QR code you see in the terminal or in Expo Dev Tools.<br />
 🤖 On your Android device, press "Scan QR Code" on the "Projects" tab of the Expo Go app and scan the QR code you see in the terminal or in Expo Dev Tools.
