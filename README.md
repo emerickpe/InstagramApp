@@ -19,8 +19,8 @@ Expo CLI starts Metro Bundler, which is an HTTP server that compiles the JavaScr
 #### Using a simulator or emulator
 
 If you are using a simulator or emulator, you may find the following Expo CLI keyboard shortcuts to be useful:
-Pressing i will open in an iOS simulator.
-Pressing a will open in an Android emulator or connected device.
+Pressing `i` will open in an iOS simulator.
+Pressing `a` will open in an Android emulator or connected device.
 
 
 ### RELEASE MODE
