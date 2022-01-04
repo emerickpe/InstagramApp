@@ -9,7 +9,7 @@ In the root of the project use `npm install`or `yarn install`to install node_mod
 ### DEBUG MODE
 
 To launch the project in debug just use `expo start`( or `npm start`, `yarn start`)
-Expo CLI starts Metro Bundler, which is an HTTP server that compiles the JavaScript code of your app.
+Expo CLI starts Metro Bundler, which is an HTTP server that compiles the JavaScript code of your app using Babel and serves it to the Expo app. It also pops up Expo Dev Tools, a graphical interface for Expo CLI.
 
 #### Using your phone or tablet
 
